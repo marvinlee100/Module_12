@@ -12,10 +12,14 @@ In this section, describe the analysis you completed for the machine learning mo
 
 ## Results
 
+The purpose of the analysis performed is to balance out a classification problem that is inherently imbalanced. The number of healthy loans easily outnumber risky loans as shown in the 'lending_data.csv' dataset.  The financial information in the dataset included: loan size, interest rate, borrower income, debt to income ratio, etc. We checked the magnitude of imbalance in the dataset by viewing the number of distinct values (value_counts) for the labels. The stages of the machine learning process is: model-fit-predict.
+
 Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all machine learning models.
 
 * Machine Learning Model 1:
   * Description of Model 1 Accuracy, Precision, and Recall scores.
+  
+ 
 
 
 
